@@ -1,1 +1,3 @@
-# como-comprar-dock-dock
+[**Cómo comprar Dock (DOCK)**](https://topcryptoguide.com/como-comprar-dock-dock/)
+
+Este artículo explica **cómo comprar Dock (DOCK)**, el token asociado a la plataforma Dock, que se centra en **identidad digital descentralizada** y permite crear, administrar y verificar credenciales digitales con blockchain. Para adquirir DOCK normalmente necesitas **crear una cuenta en un exchange confiable que lo liste** (como Binance, KuCoin o Gate.io), **verificar tu identidad** si corresponde y **depositar fondos** en fiat o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunos exchanges también ofrecen **compras directas con tarjeta de crédito/débito** o transferencias bancarias según disponibilidad. Tras la compra, se recomienda **mover tus tokens a un wallet seguro** donde controles tus claves privadas para proteger tus activos digitales. 
